@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyubomir08
+- 👋 Hi, I’m Lyubomir Yordanov.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning javaScript.
 - 📫 How to reach me https://www.instagram.com/lubomir.yordanovv/ .
