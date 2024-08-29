@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lyubomir Yordanov.                                                                             
+- 👋 Hi, I’m Lyubomir.                                                                             
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript.                       
-- 📫 How to reach me https://www.instagram.com/lubomir.yordanovv/ .  
+- 🌱 I’m currently learning Node.js and Express.js.                       
+- 📫 How to reach me https://www.instagram.com/lubomir.yordanovv/.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyubomir08&layout=compact)  
