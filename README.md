@@ -3,10 +3,7 @@
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lyubomir08&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lyubomir08&layout=compact&theme=default"/>
-</p>
 
 ---
 
