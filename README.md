@@ -1,11 +1,6 @@
 - 👋 Hey there, I’m Lyubomir.
 - 👀 I’m interested in programming.
 
----
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lyubomir08&layout=compact&theme=default"/>
-
----
 
 ## 🛠 Tech Stack
 
